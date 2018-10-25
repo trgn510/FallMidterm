@@ -1,7 +1,7 @@
 # Fall 2018 TRGN510 Midterm
 ## Please provide your name below
 `FirstName LastName`
-** Due 10/25/18 by 11:59PM Pacific Time Zone **
+** Due 10/28/18 by 11:59PM Pacific Time Zone **
   
 This is an Markdown document and your exam. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. Please EMAIL ME the Readme.md file to turn it on - davidwcr@usc.edu.  This will be your completed exam.
 
