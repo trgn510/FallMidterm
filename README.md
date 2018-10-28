@@ -135,24 +135,24 @@ echo "Replace me with a bash code block answering the question"
 ```
 
 ## R
-For the following you will need access to the cars dataset within R, and these will be done within R Studio.  Please make sure to load the ggplot2 library
+For the following you will need access to the cars **mpg** and **mtcars** datasets within R, and these will be done within R Studio.  Please make sure to load the ggplot2 library
 
-###  Please generate a scatterplot of mpg vs hp, coloring by class
+###  Please generate a scatterplot of mpg vs hp from **mtcars** .
 ```{R, echo = FALSE}
 echo "Replace me with a bash code block answering the question"
 ```
 
-###  Please make a histogram of hwy
+###  Please make a histogram of hwy from **mtcars** .
 ```{R, echo = FALSE}
 echo "Replace me with a bash code block answering the question"
 ```
 
-### Please make a bar chart of class, colored by drv
+### Please make a bar chart of class, colored by drv from **mpg**
 ```{R, echo = FALSE}
 echo "Replace me with a bash code block answering the question"
 ```
 ## R/Shiny
-For this part, you are expected to provide a URL to the following question. ** Please use the `mtcars` dataset available within `ggplot2` library for completion.** 
+For this part, you are expected to provide a URL to the following question. ** Please use the `mtcars` or `mpg` dataset available within `ggplot2` library for completion.** 
 Please make a Shiny application that allows us to generate a violin plot of each different cateogrical data-type
 for each continious datatype, coloring only by datatypes that are categorical in nature.
 Please add a button that allows one to facet by one other categorical datatype.
