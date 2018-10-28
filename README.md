@@ -142,7 +142,7 @@ For the following you will need access to the cars **mpg** and **mtcars** datase
 echo "Replace me with a bash code block answering the question"
 ```
 
-###  Please make a histogram of hwy from **mtcars** .
+###  Please make a histogram of using any continious column from **mtcars** or **mpg**.
 ```{R, echo = FALSE}
 echo "Replace me with a bash code block answering the question"
 ```
