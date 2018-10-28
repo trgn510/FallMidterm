@@ -152,8 +152,8 @@ echo "Replace me with a bash code block answering the question"
 echo "Replace me with a bash code block answering the question"
 ```
 ## R/Shiny
-For this part, you are expected to provide a URL to the following question. ** Please use the `mtcars` or `mpg` dataset available within `ggplot2` library for completion.** 
-Please make a Shiny application that allows us to generate a violin plot of each different cateogrical data-type
+For this part, you are expected to provide a URL to the following question. ** Please use the `mpg` dataset available within `ggplot2` library for completion.** 
+Please make a Shiny application that allows us to generate a violin plot of each different categorical data-type
 for each continious datatype, coloring only by datatypes that are categorical in nature.
 Please add a button that allows one to facet by one other categorical datatype.
 ```{R, echo = FALSE}
