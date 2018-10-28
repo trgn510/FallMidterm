@@ -155,7 +155,7 @@ echo "Replace me with a bash code block answering the question"
 For this part, you are expected to provide a URL to the following question. ** Please use the `mtcars` dataset available within `ggplot2` library for completion.** 
 Please make a Shiny application that allows us to generate a violin plot of each different cateogrical data-type
 for each continious datatype (e.g. hwy), coloring only by datatypes that are categorical in nature.
-Please add a button that allows one to facet by one other categorical datatype such as class.
+Please add a button that allows one to facet by one other categorical datatype.
 ```{R, echo = FALSE}
 echo "Replace me with a URL to the correct location of your shiny application.
 ```
